@@ -144,6 +144,12 @@ Experienced Full Stack Web Developer (1.5+ years) specializing in the end-to-end
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a> Figma
+    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://nuxtjs.org/logos/nuxt-icon.svg" alt="nuxtjs" width="40" height="40"/>
+  </a> Nuxt.js
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+  </a> Next.js
   
   <!-- Backend Technologies -->
   <strong>Backend Technologies:</strong><br/>
@@ -157,7 +163,7 @@ Experienced Full Stack Web Developer (1.5+ years) specializing in the end-to-end
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a> Django
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40" height="40"/>
   </a> Laravel
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
