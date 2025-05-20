@@ -115,7 +115,6 @@ Experienced Full Stack Web Developer (1.5+ years) specializing in the end-to-end
 | **Data Science & Machine Learning**| ![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg) Pandas, ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) Scikit-learn, ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg) Seaborn, ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) TensorFlow, ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) PyTorch, ![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg) OpenCV |
 | **Tools & Utilities**              | ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) Git, ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) Postman, ![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg) Photoshop, ![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png) MATLAB, ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg) Unity |
 
-
 ---
 
 ## 📜 Certificates
