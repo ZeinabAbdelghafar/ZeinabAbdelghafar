@@ -127,3 +127,11 @@ Experienced Full Stack Web Developer (1.5+ years) specializing in the end-to-end
 
 - **Arabic**: Native  
 - **English**: Intermediate
+
+---
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabAbdelghafar&langs_count=8)
+
+### GitHub Stats
+![Zeinab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeinabAbdelghafar&show_icons=true&theme=radical)
